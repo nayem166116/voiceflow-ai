@@ -1,1 +1,0 @@
-{"cleanUrls":true,"trailingSlash":false,"rewrites":[{"source":"/((?!assets|public|sitemap.xml|robots.txt).*)","destination":"/$1"}],"redirects":[{"source":"/:path*.html","destination":"/:path","permanent":true}] }
