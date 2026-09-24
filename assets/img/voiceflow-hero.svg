@@ -1,0 +1,28 @@
+<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">VoiceFlow AI call automation visual</title>
+  <desc id="desc">A phone call waveform and a structured voice agent transcript.</desc>
+  <rect width="720" height="420" fill="#141820"/>
+  <rect x="16" y="16" width="688" height="388" stroke="#F7F7F5" stroke-width="2"/>
+  <rect x="32" y="32" width="656" height="46" fill="#2F5BEA"/>
+  <circle cx="56" cy="55" r="7" fill="#FFB454"/>
+  <text x="76" y="60" fill="#F7F7F5" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1">VOICEFLOW AI / ACTIVE CALL</text>
+  <rect x="32" y="96" width="256" height="282" fill="#0E1116" stroke="#2A3240" stroke-width="2"/>
+  <text x="56" y="132" fill="#9AA3B4" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">CALL SIGNAL</text>
+  <text x="56" y="170" fill="#F7F7F5" font-family="Arial, sans-serif" font-size="30" font-weight="800">Listening</text>
+  <text x="56" y="198" fill="#6B7280" font-family="Arial, sans-serif" font-size="13">Inbound appointment request</text>
+  <line x1="56" y1="236" x2="264" y2="236" stroke="#2A3240" stroke-width="2"/>
+  <g stroke="#FFB454" stroke-width="7">
+    <line x1="60" y1="286" x2="60" y2="306"/><line x1="80" y1="274" x2="80" y2="318"/><line x1="100" y1="250" x2="100" y2="342"/><line x1="120" y1="268" x2="120" y2="324"/><line x1="140" y1="258" x2="140" y2="334"/><line x1="160" y1="292" x2="160" y2="302"/><line x1="180" y1="256" x2="180" y2="338"/><line x1="200" y1="273" x2="200" y2="321"/><line x1="220" y1="245" x2="220" y2="349"/><line x1="240" y1="280" x2="240" y2="314"/>
+  </g>
+  <rect x="312" y="96" width="376" height="282" fill="#0E1116" stroke="#2A3240" stroke-width="2"/>
+  <text x="336" y="132" fill="#9AA3B4" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">CONVERSATION FLOW</text>
+  <text x="336" y="174" fill="#FFB454" font-family="monospace" font-size="12" font-weight="700">CALLER</text>
+  <text x="336" y="198" fill="#F7F7F5" font-family="Arial, sans-serif" font-size="15">“I need the earliest slot next week.”</text>
+  <line x1="336" y1="220" x2="664" y2="220" stroke="#2A3240" stroke-width="1"/>
+  <text x="336" y="256" fill="#FFB454" font-family="monospace" font-size="12" font-weight="700">AGENT</text>
+  <text x="336" y="280" fill="#F7F7F5" font-family="Arial, sans-serif" font-size="15">“Tuesday at 10 or Wednesday at 2?”</text>
+  <rect x="336" y="316" width="190" height="32" fill="#2F5BEA"/>
+  <text x="352" y="337" fill="#F7F7F5" font-family="monospace" font-size="11" font-weight="700">INTENT CAPTURED</text>
+  <rect x="540" y="316" width="124" height="32" fill="#FFB454"/>
+  <text x="558" y="337" fill="#0E1116" font-family="monospace" font-size="11" font-weight="700">BOOK NEXT</text>
+</svg>
